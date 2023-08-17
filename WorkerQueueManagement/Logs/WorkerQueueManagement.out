@@ -1,0 +1,3 @@
+﻿{"Name":"WorkerQueueManagement","HostName":"CCABREMELYNTP","ApiKey":"N/A","Uri":"N/A","ResponseCode":0,"ResponseTime":304,"Ip":null,"Level":10,"Message":"Iniciando servicio de consola Worker","DateTime":"2023-03-09 04:07:51","Version":"v1"}
+{"Name":"WorkerQueueManagement","HostName":"CCABREMELYNTP","ApiKey":"N/A","Uri":"N/A","ResponseCode":0,"ResponseTime":43,"Ip":null,"Level":10,"Message":"Iniciando servicio Worker","DateTime":"2023-03-09 04:14:29","Version":"v1"}
+{"Name":"WorkerQueueManagement","HostName":"CCABREMELYNTP","ApiKey":"N/A","Uri":"N/A","ResponseCode":201,"ResponseTime":179,"Ip":null,"Level":20,"Message":"Se registro la solicitud con el numero de expediente EXP-20230009","DateTime":"2023-03-09 04:14:53","Version":"v1"}
